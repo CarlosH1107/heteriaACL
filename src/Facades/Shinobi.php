@@ -1,6 +1,6 @@
 <?php
 
-namespace Caffeinated\Shinobi\Facades;
+namespace Heteria\Shinobi\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

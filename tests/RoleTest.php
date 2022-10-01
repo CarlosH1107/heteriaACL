@@ -1,10 +1,10 @@
 <?php
 
-namespace Caffeinated\Shinobi\Tests;
+namespace Heteria\Shinobi\Tests;
 
-use Caffeinated\Shinobi\Models\Role;
-use Caffeinated\Shinobi\Tests\TestCase;
-use Caffeinated\Shinobi\Models\Permission;
+use Heteria\Shinobi\Models\Role;
+use Heteria\Shinobi\Tests\TestCase;
+use Heteria\Shinobi\Models\Permission;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class RoleTest extends TestCase

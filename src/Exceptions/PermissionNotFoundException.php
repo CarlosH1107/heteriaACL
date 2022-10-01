@@ -1,6 +1,6 @@
 <?php
 
-namespace Caffeinated\Shinobi\Exceptions;
+namespace Heteria\Shinobi\Exceptions;
 
 use Exception;
 

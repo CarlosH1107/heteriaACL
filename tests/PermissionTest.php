@@ -1,9 +1,9 @@
 <?php
 
-namespace Caffeinated\Shinobi\Tests;
+namespace Heteria\Shinobi\Tests;
 
-use Caffeinated\Shinobi\Tests\User;
-use Caffeinated\Shinobi\Exceptions\PermissionNotFoundException;
+use Heteria\Shinobi\Tests\User;
+use Heteria\Shinobi\Exceptions\PermissionNotFoundException;
 
 class PermissionTest extends TestCase
 {

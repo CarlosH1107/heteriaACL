@@ -1,13 +1,13 @@
 <?php
 
-namespace Caffeinated\Shinobi\Tests;
+namespace Heteria\Shinobi\Tests;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\View;
-use Caffeinated\Shinobi\Facades\Shinobi;
+use Heteria\Shinobi\Facades\Shinobi;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Caffeinated\Shinobi\ShinobiServiceProvider;
+use Heteria\Shinobi\ShinobiServiceProvider;
 
 abstract class TestCase extends Orchestra
 {

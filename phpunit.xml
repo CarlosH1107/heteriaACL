@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="Caffeinated Test Suite">
+        <testsuite name="Heteria Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

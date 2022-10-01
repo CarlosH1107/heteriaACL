@@ -1,9 +1,9 @@
 <?php
 
-namespace Caffeinated\Shinobi\Tests;
+namespace Heteria\Shinobi\Tests;
 
 use Illuminate\Support\Facades\Schema;
-use Caffeinated\Shinobi\Tests\TestCase;
+use Heteria\Shinobi\Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class GrumpyTest extends TestCase
